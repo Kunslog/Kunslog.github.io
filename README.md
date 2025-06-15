@@ -1,4 +1,4 @@
-<h2 style="font: normal"> 
+<h2> 
   Kun Wu 
 </h2>
  
