@@ -12,17 +12,16 @@
 
 Welcome! 
 
-I am a PhD student in the School of Economics at University College Dublin (UCD).
-
+I am a PhD student in the School of Economics at University College Dublin (UCD). <br>
 I am also a postgraduate research fellow at UCD Geary Institute. 
 
-My main research interests are in the fields of labour and family economics.
+My main research interests are in the fields of Labour Economics and Family Economics.
 
-Research topics include: inequality, earnings dynamics, informal insurance, family formation and dissolution, economic links among family members.
+Research topics include: <br>
+inequality, earnings dynamics, informal insurance, family formation and dissolution, economic links among family members.
 
 You can find my CV [here](https://sites.google.com/view/wukun/cv?authuser=0) and can reach me at <kun.wu1@ucdconnect.ie>
 
-\
 \
 **Working Papers**
 
