@@ -1,6 +1,6 @@
 # Kun Wu
 
-<img align="left" width=25% height=25% src="hi/linkedin.jpeg" alt="image" />
+<img align="left" width=25% height=25% src="pics/linkedin.jpeg" alt="image" />
 
 <!-- below is if to put pic in the middle (probably need to trim it first) -->
 <!-- <p align="center">
