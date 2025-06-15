@@ -1,8 +1,11 @@
-# Kun Wu
-
+<h1 style="font-weight: 100"> 
+  Kun Wu 
+</h1>
+ 
 <img align="left" width=25% height=25% src="pics/linkedin.jpeg" alt="image" />
 
 <!-- below is if to put pic in the middle (probably need to trim it first) -->
+<!-- p as for the content -->
 <!-- <p align="center">
   <img width=25% height=25% src="hi/linkedin.jpeg"> 
 </p> -->
