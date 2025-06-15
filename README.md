@@ -1,6 +1,6 @@
-<H1 style="font-weight: normal"> 
+<h2 style="font: normal"> 
   Kun Wu 
-</H1>
+</h2>
  
 <img align="left" width=25% height=25% src="pics/linkedin.jpeg" alt="image" />
 
@@ -20,7 +20,7 @@ My main research interests are in the fields of labour and family economics.
 
 Research topics include: inequality, earnings dynamics, informal insurance, family formation and dissolution, economic links among family members.
 
-You can find my CV [here](https://sites.google.com/view/wukun/cv?authuser=0) and can reach me at kun.wu1@ucdconnect.ie
+You can find my CV [here](https://sites.google.com/view/wukun/cv?authuser=0) and can reach me at <kun.wu1@ucdconnect.ie>
 
 \
 \
@@ -28,4 +28,4 @@ You can find my CV [here](https://sites.google.com/view/wukun/cv?authuser=0) and
 
 _Intra-Household Correlation of Earnings and Consumption Patterns_
 
-_Earnings Dynamics and Risk Exposure in the Post-Great-Recession Ireland_ (with Tara McIndoe-Calder)
+_Earnings Dynamics and Risk Exposure in the Post-Great-Recession Ireland_ <br> (with Tara McIndoe-Calder)
