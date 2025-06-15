@@ -1,6 +1,6 @@
-<h1 style="font-weight: normal"> 
+<H1 style="font-weight: normal"> 
   Kun Wu 
-</h1>
+</H1>
  
 <img align="left" width=25% height=25% src="pics/linkedin.jpeg" alt="image" />
 
