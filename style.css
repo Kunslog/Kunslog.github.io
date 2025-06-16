@@ -1,8 +1,17 @@
 body {
   background-color: powderblue;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 40px;  
 }
 
 h1 {
   color: red
 }
 
+img.profile-left {
+  float: center;
+  width: 25%;
+  height: 25%;
+  margin-right: 20px;
+}
