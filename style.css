@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background: src="/pics/20240406_203543.JPG";
+  background: white;
   background-size: cover;
   color: white;
   text-align: center;
@@ -54,3 +54,6 @@ footer {
     gap: 40px;
   }
 }
+
+#container {max-width: 850px;
+            margin: 0 auto;}
