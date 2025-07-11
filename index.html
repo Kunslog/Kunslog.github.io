@@ -38,7 +38,21 @@
       padding: 20px;
     }
 
-    .image-section, .intro-section {
+    .image-section {
+      flex: 1;
+      display: flex;
+      justify-content: center; /* center horizontally */
+      align-items: center;     /* center vertically */
+      height: 100vh;           /* optional: make it full viewport height */
+    }
+
+    .image-section img {
+      max-width: 100%;          /* adjust as needed */
+      height: auto;
+      display: block;
+    }
+    
+    .intro-section {
       flex: 1; /* Take equal space; change to fixed width if needed */
     }
 
@@ -82,12 +96,6 @@
 
 <p> &nbsp; </p>
 
-<div style="text-align: center;">
-  <img src="/pics/round_crop.jpg" 
-       alt="Profile"
-       style="height:23%; width:23%;">
-</div>
-
   <div class="container">
     <section class="image-section">
       <img src="/pics/round_crop.jpg" 
@@ -96,6 +104,9 @@
     </section>
     
     <section class="intro-section">
+
+      <p> &nbsp; </p>
+      
       <p>
         Hi there, welcome!
       </p>
