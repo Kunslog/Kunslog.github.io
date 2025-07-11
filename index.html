@@ -30,6 +30,23 @@
   
     #container {max-width: 850px;
                 margin: 0 auto;}
+
+    .container {
+      display: flex;
+      gap: 20px; /* space between blocks */
+      align-items: flex-start; /* align tops */
+      padding: 20px;
+    }
+
+    .image-section, .intro-section {
+      flex: 1; /* Take equal space; change to fixed width if needed */
+    }
+
+    .image-section img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
     
     body {font-family: 'Open Sans', sans-serif;
           color: #333; 
@@ -71,6 +88,19 @@
        style="height:23%; width:23%;">
 </div>
 
+  <div class="container">
+    <section class="image-section">
+      <img src="/pics/round_crop.jpg" 
+           alt="Profile"
+           style="height:25%; width:25%;">
+    </section>
+    <section class="intro-section">
+      <p>
+        Hi there, welcome!
+      </p>
+    </section>
+  </div>
+  
 <!-- ---------------------------------------------------------------- -->
   
 <div id="container">
